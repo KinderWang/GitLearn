@@ -5,4 +5,4 @@ Git is GPL
 Git di si ci change
 Git di wu ci change
 git di liu ci change
-my stupid boss still use SVN
+
